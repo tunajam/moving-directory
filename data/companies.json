@@ -185,7 +185,7 @@
     "phone": "(512) 900-4190",
     "website": "https://twomenandatruck.com",
     "address": "Austin, TX",
-    "description": "Nationally franchised moving company with local crews. Known for The Grandma Rule — treat every move like it's your grandma's.",
+    "description": "Nationally franchised moving company with local crews. Known for The Grandma Rule \u2014 treat every move like it's your grandma's.",
     "services": [
       {
         "value": 1,
@@ -3636,6 +3636,3634 @@
     "service_area_miles": 25,
     "rating": 0,
     "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(811) 597-7431",
+    "website": "https://twomenandatruck.com",
+    "address": "Jacksonville, FL",
+    "description": "Professional local and long-distance moving services in Jacksonville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450\u2013$629"
+      },
+      {
+        "value": 2,
+        "price_range": "$978\u2013$1860"
+      },
+      {
+        "value": 4,
+        "price_range": "$2865\u2013$4937"
+      },
+      {
+        "value": 5,
+        "price_range": "$4764\u2013$7353"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Commercial Moving",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 210,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(320) 444-6003",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Jacksonville, FL",
+    "description": "Professional local and long-distance moving services in Jacksonville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$329\u2013$646"
+      },
+      {
+        "value": 2,
+        "price_range": "$991\u2013$1644"
+      },
+      {
+        "value": 4,
+        "price_range": "$2523\u2013$4795"
+      },
+      {
+        "value": 5,
+        "price_range": "$4356\u2013$8221"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Long Distance",
+      "Storage Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.1,
+    "review_count": 325,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(910) 860-3838",
+    "website": "https://www.upack.com",
+    "address": "Jacksonville, FL",
+    "description": "Professional local and long-distance moving services in Jacksonville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$442\u2013$642"
+      },
+      {
+        "value": 2,
+        "price_range": "$1050\u2013$1795"
+      },
+      {
+        "value": 4,
+        "price_range": "$2143\u2013$4383"
+      },
+      {
+        "value": 5,
+        "price_range": "$4144\u2013$8724"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Long Distance",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 298,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Ocean Movers Jacksonville",
+    "slug": "ocean-movers-jacksonville-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(339) 399-7290",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Trusted local movers serving Jacksonville and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$443\u2013$729"
+      },
+      {
+        "value": 2,
+        "price_range": "$1134\u2013$2006"
+      },
+      {
+        "value": 4,
+        "price_range": "$2418\u2013$5402"
+      },
+      {
+        "value": 5,
+        "price_range": "$4507\u2013$7851"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Licensed & Insured",
+      "Free Estimates",
+      "Long Distance",
+      "Same Day Service"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.3,
+    "review_count": 90,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "First Coast Moving",
+    "slug": "first-coast-moving-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(430) 750-5729",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Trusted local movers serving Jacksonville and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$343\u2013$799"
+      },
+      {
+        "value": 2,
+        "price_range": "$1034\u2013$2079"
+      },
+      {
+        "value": 4,
+        "price_range": "$2760\u2013$5014"
+      },
+      {
+        "value": 5,
+        "price_range": "$4625\u2013$8046"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 113,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Jax Moving & Storage",
+    "slug": "jax-moving-and-storage-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(755) 974-1681",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Trusted local movers serving Jacksonville and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$494\u2013$784"
+      },
+      {
+        "value": 2,
+        "price_range": "$1025\u2013$2059"
+      },
+      {
+        "value": 4,
+        "price_range": "$2223\u2013$4870"
+      },
+      {
+        "value": 5,
+        "price_range": "$3709\u2013$8507"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Piano Moving",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.2,
+    "review_count": 42,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(649) 320-4882",
+    "website": "https://twomenandatruck.com",
+    "address": "Memphis, TE",
+    "description": "Professional local and long-distance moving services in Memphis.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$353\u2013$788"
+      },
+      {
+        "value": 2,
+        "price_range": "$1101\u2013$1859"
+      },
+      {
+        "value": 4,
+        "price_range": "$2881\u2013$5455"
+      },
+      {
+        "value": 5,
+        "price_range": "$4749\u2013$8295"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Licensed & Insured",
+      "Long Distance"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 155,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(260) 783-6747",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Memphis, TE",
+    "description": "Professional local and long-distance moving services in Memphis.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$436\u2013$671"
+      },
+      {
+        "value": 2,
+        "price_range": "$1105\u2013$2051"
+      },
+      {
+        "value": 4,
+        "price_range": "$2172\u2013$4662"
+      },
+      {
+        "value": 5,
+        "price_range": "$4941\u2013$7599"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Commercial Moving",
+      "Packing Services"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.8,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(338) 968-7743",
+    "website": "https://www.upack.com",
+    "address": "Memphis, TE",
+    "description": "Professional local and long-distance moving services in Memphis.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$315\u2013$670"
+      },
+      {
+        "value": 2,
+        "price_range": "$1135\u2013$1629"
+      },
+      {
+        "value": 4,
+        "price_range": "$2718\u2013$4271"
+      },
+      {
+        "value": 5,
+        "price_range": "$4011\u2013$7299"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Piano Moving",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.3,
+    "review_count": 122,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Memphis Moving & Storage",
+    "slug": "memphis-moving-and-storage-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(791) 847-5402",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Trusted local movers serving Memphis and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$460\u2013$706"
+      },
+      {
+        "value": 2,
+        "price_range": "$992\u2013$1962"
+      },
+      {
+        "value": 4,
+        "price_range": "$2077\u2013$5297"
+      },
+      {
+        "value": 5,
+        "price_range": "$3690\u2013$7825"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Storage Available",
+      "Piano Moving",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.0,
+    "review_count": 43,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bluff City Movers",
+    "slug": "bluff-city-movers-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(948) 669-6869",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Trusted local movers serving Memphis and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$316\u2013$736"
+      },
+      {
+        "value": 2,
+        "price_range": "$1003\u2013$1723"
+      },
+      {
+        "value": 4,
+        "price_range": "$2991\u2013$4879"
+      },
+      {
+        "value": 5,
+        "price_range": "$3933\u2013$8013"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Piano Moving",
+      "Packing Services",
+      "Commercial Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 164,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Volunteer Moving",
+    "slug": "volunteer-moving-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(696) 551-1793",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Trusted local movers serving Memphis and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$311\u2013$625"
+      },
+      {
+        "value": 2,
+        "price_range": "$1120\u2013$1970"
+      },
+      {
+        "value": 4,
+        "price_range": "$2016\u2013$4254"
+      },
+      {
+        "value": 5,
+        "price_range": "$3823\u2013$7903"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Storage Available",
+      "Licensed & Insured",
+      "Same Day Service",
+      "Packing Services"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.8,
+    "review_count": 90,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(295) 870-6905",
+    "website": "https://twomenandatruck.com",
+    "address": "Sacramento, CA",
+    "description": "Professional local and long-distance moving services in Sacramento.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$364\u2013$621"
+      },
+      {
+        "value": 2,
+        "price_range": "$990\u2013$2180"
+      },
+      {
+        "value": 4,
+        "price_range": "$2925\u2013$5328"
+      },
+      {
+        "value": 5,
+        "price_range": "$3838\u2013$7106"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Same Day Service",
+      "Packing Services"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.6,
+    "review_count": 169,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(639) 871-2494",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Sacramento, CA",
+    "description": "Professional local and long-distance moving services in Sacramento.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$480\u2013$624"
+      },
+      {
+        "value": 2,
+        "price_range": "$800\u2013$1718"
+      },
+      {
+        "value": 4,
+        "price_range": "$2488\u2013$4159"
+      },
+      {
+        "value": 5,
+        "price_range": "$3771\u2013$8215"
+      }
+    ],
+    "amenities": [
+      "Storage Available",
+      "Long Distance",
+      "Same Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.0,
+    "review_count": 225,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(323) 632-3165",
+    "website": "https://www.upack.com",
+    "address": "Sacramento, CA",
+    "description": "Professional local and long-distance moving services in Sacramento.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$422\u2013$618"
+      },
+      {
+        "value": 2,
+        "price_range": "$917\u2013$1892"
+      },
+      {
+        "value": 4,
+        "price_range": "$2091\u2013$5496"
+      },
+      {
+        "value": 5,
+        "price_range": "$3709\u2013$7211"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Packing Services",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 118,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Capital City Movers",
+    "slug": "capital-city-movers-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(856) 893-3340",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Trusted local movers serving Sacramento and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$317\u2013$735"
+      },
+      {
+        "value": 2,
+        "price_range": "$1088\u2013$1508"
+      },
+      {
+        "value": 4,
+        "price_range": "$2624\u2013$5331"
+      },
+      {
+        "value": 5,
+        "price_range": "$3836\u2013$7901"
+      }
+    ],
+    "amenities": [
+      "Storage Available",
+      "Same Day Service",
+      "Piano Moving",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.6,
+    "review_count": 133,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sacramento Moving & Storage",
+    "slug": "sacramento-moving-and-storage-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(422) 288-2646",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Trusted local movers serving Sacramento and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$335\u2013$792"
+      },
+      {
+        "value": 2,
+        "price_range": "$863\u2013$2103"
+      },
+      {
+        "value": 4,
+        "price_range": "$2747\u2013$4786"
+      },
+      {
+        "value": 5,
+        "price_range": "$4219\u2013$8972"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Piano Moving",
+      "Licensed & Insured",
+      "Commercial Moving",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.1,
+    "review_count": 161,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Golden State Movers",
+    "slug": "golden-state-movers-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(815) 814-5668",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Trusted local movers serving Sacramento and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$499\u2013$776"
+      },
+      {
+        "value": 2,
+        "price_range": "$813\u2013$2174"
+      },
+      {
+        "value": 4,
+        "price_range": "$2896\u2013$4617"
+      },
+      {
+        "value": 5,
+        "price_range": "$3920\u2013$8060"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Packing Services",
+      "Same Day Service"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.7,
+    "review_count": 81,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(706) 595-2847",
+    "website": "https://twomenandatruck.com",
+    "address": "Oklahoma City, OK",
+    "description": "Professional local and long-distance moving services in Oklahoma City.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$361\u2013$727"
+      },
+      {
+        "value": 2,
+        "price_range": "$1126\u2013$2108"
+      },
+      {
+        "value": 4,
+        "price_range": "$2072\u2013$5081"
+      },
+      {
+        "value": 5,
+        "price_range": "$3524\u2013$7739"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Licensed & Insured",
+      "Storage Available"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.3,
+    "review_count": 329,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(899) 376-8717",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Oklahoma City, OK",
+    "description": "Professional local and long-distance moving services in Oklahoma City.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$497\u2013$618"
+      },
+      {
+        "value": 2,
+        "price_range": "$808\u2013$2101"
+      },
+      {
+        "value": 4,
+        "price_range": "$2069\u2013$4028"
+      },
+      {
+        "value": 5,
+        "price_range": "$4036\u2013$7441"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Commercial Moving",
+      "Storage Available"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.2,
+    "review_count": 306,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(985) 625-7939",
+    "website": "https://www.upack.com",
+    "address": "Oklahoma City, OK",
+    "description": "Professional local and long-distance moving services in Oklahoma City.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$479\u2013$702"
+      },
+      {
+        "value": 2,
+        "price_range": "$842\u2013$2155"
+      },
+      {
+        "value": 4,
+        "price_range": "$2549\u2013$5101"
+      },
+      {
+        "value": 5,
+        "price_range": "$4761\u2013$7312"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Free Estimates",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 154,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "OKC Moving Company",
+    "slug": "okc-moving-company-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(359) 749-6353",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Trusted local movers serving Oklahoma City and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400\u2013$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1124\u2013$2165"
+      },
+      {
+        "value": 4,
+        "price_range": "$2697\u2013$5317"
+      },
+      {
+        "value": 5,
+        "price_range": "$3635\u2013$7635"
+      }
+    ],
+    "amenities": [
+      "Storage Available",
+      "Free Estimates",
+      "Licensed & Insured",
+      "Piano Moving",
+      "Commercial Moving"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.4,
+    "review_count": 175,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sooner Moving & Storage",
+    "slug": "sooner-moving-and-storage-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(256) 516-3877",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Trusted local movers serving Oklahoma City and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$330\u2013$603"
+      },
+      {
+        "value": 2,
+        "price_range": "$1162\u2013$1640"
+      },
+      {
+        "value": 4,
+        "price_range": "$2718\u2013$4023"
+      },
+      {
+        "value": 5,
+        "price_range": "$3835\u2013$8016"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Licensed & Insured",
+      "Packing Services",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 88,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Oklahoma Movers",
+    "slug": "oklahoma-movers-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(950) 320-1480",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Trusted local movers serving Oklahoma City and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$385\u2013$709"
+      },
+      {
+        "value": 2,
+        "price_range": "$939\u2013$2036"
+      },
+      {
+        "value": 4,
+        "price_range": "$2065\u2013$4538"
+      },
+      {
+        "value": 5,
+        "price_range": "$4958\u2013$8996"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Storage Available"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 147,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(780) 370-7024",
+    "website": "https://twomenandatruck.com",
+    "address": "Louisville, KE",
+    "description": "Professional local and long-distance moving services in Louisville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$340\u2013$665"
+      },
+      {
+        "value": 2,
+        "price_range": "$1195\u2013$1605"
+      },
+      {
+        "value": 4,
+        "price_range": "$2915\u2013$5175"
+      },
+      {
+        "value": 5,
+        "price_range": "$4880\u2013$8480"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Commercial Moving",
+      "Same Day Service"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.0,
+    "review_count": 56,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(450) 247-8729",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Louisville, KE",
+    "description": "Professional local and long-distance moving services in Louisville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$393\u2013$698"
+      },
+      {
+        "value": 2,
+        "price_range": "$876\u2013$1683"
+      },
+      {
+        "value": 4,
+        "price_range": "$2953\u2013$4072"
+      },
+      {
+        "value": 5,
+        "price_range": "$4632\u2013$8644"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Licensed & Insured",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 213,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(477) 279-7108",
+    "website": "https://www.upack.com",
+    "address": "Louisville, KE",
+    "description": "Professional local and long-distance moving services in Louisville.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$330\u2013$728"
+      },
+      {
+        "value": 2,
+        "price_range": "$1144\u2013$1553"
+      },
+      {
+        "value": 4,
+        "price_range": "$2183\u2013$4457"
+      },
+      {
+        "value": 5,
+        "price_range": "$4556\u2013$7094"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Free Estimates",
+      "Storage Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 209,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Derby City Movers",
+    "slug": "derby-city-movers-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(535) 288-8483",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Trusted local movers serving Louisville and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$302\u2013$694"
+      },
+      {
+        "value": 2,
+        "price_range": "$902\u2013$1798"
+      },
+      {
+        "value": 4,
+        "price_range": "$2577\u2013$4622"
+      },
+      {
+        "value": 5,
+        "price_range": "$4775\u2013$7496"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Long Distance",
+      "Storage Available",
+      "Licensed & Insured",
+      "Piano Moving"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.0,
+    "review_count": 124,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Louisville Moving Co",
+    "slug": "louisville-moving-co-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(224) 438-9872",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Trusted local movers serving Louisville and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$388\u2013$762"
+      },
+      {
+        "value": 2,
+        "price_range": "$1155\u2013$1509"
+      },
+      {
+        "value": 4,
+        "price_range": "$2973\u2013$4686"
+      },
+      {
+        "value": 5,
+        "price_range": "$3502\u2013$8554"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Free Estimates",
+      "Licensed & Insured",
+      "Commercial Moving",
+      "Same Day Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 35,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bluegrass Moving",
+    "slug": "bluegrass-moving-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(345) 928-5584",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Trusted local movers serving Louisville and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$323\u2013$611"
+      },
+      {
+        "value": 2,
+        "price_range": "$918\u2013$2032"
+      },
+      {
+        "value": 4,
+        "price_range": "$2422\u2013$5435"
+      },
+      {
+        "value": 5,
+        "price_range": "$4262\u2013$7938"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Long Distance"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.6,
+    "review_count": 120,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(276) 806-2020",
+    "website": "https://twomenandatruck.com",
+    "address": "Richmond, VI",
+    "description": "Professional local and long-distance moving services in Richmond.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$411\u2013$769"
+      },
+      {
+        "value": 2,
+        "price_range": "$866\u2013$1742"
+      },
+      {
+        "value": 4,
+        "price_range": "$2298\u2013$4534"
+      },
+      {
+        "value": 5,
+        "price_range": "$4145\u2013$8896"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Same Day Service",
+      "Commercial Moving"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 189,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(439) 276-4321",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Richmond, VI",
+    "description": "Professional local and long-distance moving services in Richmond.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$334\u2013$799"
+      },
+      {
+        "value": 2,
+        "price_range": "$1194\u2013$2098"
+      },
+      {
+        "value": 4,
+        "price_range": "$2111\u2013$4318"
+      },
+      {
+        "value": 5,
+        "price_range": "$3716\u2013$7336"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Storage Available",
+      "Packing Services"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.1,
+    "review_count": 233,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(988) 412-8404",
+    "website": "https://www.upack.com",
+    "address": "Richmond, VI",
+    "description": "Professional local and long-distance moving services in Richmond.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$378\u2013$718"
+      },
+      {
+        "value": 2,
+        "price_range": "$935\u2013$1622"
+      },
+      {
+        "value": 4,
+        "price_range": "$2092\u2013$4322"
+      },
+      {
+        "value": 5,
+        "price_range": "$4905\u2013$7623"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.1,
+    "review_count": 177,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "RVA Movers",
+    "slug": "rva-movers-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(564) 605-9412",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Trusted local movers serving Richmond and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$312\u2013$773"
+      },
+      {
+        "value": 2,
+        "price_range": "$953\u2013$1766"
+      },
+      {
+        "value": 4,
+        "price_range": "$2839\u2013$4356"
+      },
+      {
+        "value": 5,
+        "price_range": "$3563\u2013$8949"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Long Distance",
+      "Same Day Service",
+      "Piano Moving",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.4,
+    "review_count": 55,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "James River Moving",
+    "slug": "james-river-moving-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(324) 212-2010",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Trusted local movers serving Richmond and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$499\u2013$656"
+      },
+      {
+        "value": 2,
+        "price_range": "$866\u2013$1702"
+      },
+      {
+        "value": 4,
+        "price_range": "$2843\u2013$4820"
+      },
+      {
+        "value": 5,
+        "price_range": "$4262\u2013$8405"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Piano Moving"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.0,
+    "review_count": 36,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Capital Moving Richmond",
+    "slug": "capital-moving-richmond-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(402) 861-8265",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Trusted local movers serving Richmond and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$332\u2013$623"
+      },
+      {
+        "value": 2,
+        "price_range": "$969\u2013$1625"
+      },
+      {
+        "value": 4,
+        "price_range": "$2043\u2013$4944"
+      },
+      {
+        "value": 5,
+        "price_range": "$3603\u2013$7344"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Storage Available",
+      "Free Estimates",
+      "Commercial Moving",
+      "Long Distance"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.3,
+    "review_count": 67,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(481) 486-8307",
+    "website": "https://twomenandatruck.com",
+    "address": "Hartford, CO",
+    "description": "Professional local and long-distance moving services in Hartford.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$338\u2013$608"
+      },
+      {
+        "value": 2,
+        "price_range": "$1114\u2013$2134"
+      },
+      {
+        "value": 4,
+        "price_range": "$2631\u2013$4503"
+      },
+      {
+        "value": 5,
+        "price_range": "$4825\u2013$7604"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Storage Available",
+      "Long Distance"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.0,
+    "review_count": 193,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(592) 340-7868",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Hartford, CO",
+    "description": "Professional local and long-distance moving services in Hartford.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$351\u2013$764"
+      },
+      {
+        "value": 2,
+        "price_range": "$1069\u2013$1755"
+      },
+      {
+        "value": 4,
+        "price_range": "$2645\u2013$5113"
+      },
+      {
+        "value": 5,
+        "price_range": "$3539\u2013$7783"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Storage Available",
+      "Long Distance"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 339,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(714) 529-7363",
+    "website": "https://www.upack.com",
+    "address": "Hartford, CO",
+    "description": "Professional local and long-distance moving services in Hartford.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$369\u2013$646"
+      },
+      {
+        "value": 2,
+        "price_range": "$813\u2013$1826"
+      },
+      {
+        "value": 4,
+        "price_range": "$2611\u2013$4448"
+      },
+      {
+        "value": 5,
+        "price_range": "$3560\u2013$8834"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Free Estimates",
+      "Storage Available"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.3,
+    "review_count": 349,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hartford Movers",
+    "slug": "hartford-movers-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(438) 363-2640",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Trusted local movers serving Hartford and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$363\u2013$768"
+      },
+      {
+        "value": 2,
+        "price_range": "$923\u2013$1772"
+      },
+      {
+        "value": 4,
+        "price_range": "$2546\u2013$4114"
+      },
+      {
+        "value": 5,
+        "price_range": "$3949\u2013$8179"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Piano Moving",
+      "Licensed & Insured",
+      "Commercial Moving",
+      "Long Distance"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Connecticut Moving Co",
+    "slug": "connecticut-moving-co-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(567) 805-1462",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Trusted local movers serving Hartford and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$480\u2013$779"
+      },
+      {
+        "value": 2,
+        "price_range": "$980\u2013$2081"
+      },
+      {
+        "value": 4,
+        "price_range": "$2577\u2013$4291"
+      },
+      {
+        "value": 5,
+        "price_range": "$4653\u2013$8942"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Long Distance",
+      "Packing Services"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.4,
+    "review_count": 43,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Charter Oak Moving",
+    "slug": "charter-oak-moving-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(257) 438-4584",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Trusted local movers serving Hartford and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$305\u2013$734"
+      },
+      {
+        "value": 2,
+        "price_range": "$1044\u2013$1500"
+      },
+      {
+        "value": 4,
+        "price_range": "$2339\u2013$5257"
+      },
+      {
+        "value": 5,
+        "price_range": "$3912\u2013$8651"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Commercial Moving",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 57,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(800) 921-3320",
+    "website": "https://twomenandatruck.com",
+    "address": "Birmingham, AL",
+    "description": "Professional local and long-distance moving services in Birmingham.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$498\u2013$628"
+      },
+      {
+        "value": 2,
+        "price_range": "$1069\u2013$1873"
+      },
+      {
+        "value": 4,
+        "price_range": "$2983\u2013$4148"
+      },
+      {
+        "value": 5,
+        "price_range": "$4265\u2013$8442"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Long Distance",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.2,
+    "review_count": 119,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(361) 949-8157",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Birmingham, AL",
+    "description": "Professional local and long-distance moving services in Birmingham.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$463\u2013$724"
+      },
+      {
+        "value": 2,
+        "price_range": "$1132\u2013$1824"
+      },
+      {
+        "value": 4,
+        "price_range": "$2178\u2013$5448"
+      },
+      {
+        "value": 5,
+        "price_range": "$4650\u2013$8420"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Licensed & Insured",
+      "Commercial Moving"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.7,
+    "review_count": 243,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(514) 951-5825",
+    "website": "https://www.upack.com",
+    "address": "Birmingham, AL",
+    "description": "Professional local and long-distance moving services in Birmingham.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$332\u2013$645"
+      },
+      {
+        "value": 2,
+        "price_range": "$1173\u2013$1501"
+      },
+      {
+        "value": 4,
+        "price_range": "$2971\u2013$5437"
+      },
+      {
+        "value": 5,
+        "price_range": "$4673\u2013$7801"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured",
+      "Long Distance"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 163,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Magic City Moving",
+    "slug": "magic-city-moving-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(854) 779-2705",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Trusted local movers serving Birmingham and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$427\u2013$636"
+      },
+      {
+        "value": 2,
+        "price_range": "$969\u2013$1579"
+      },
+      {
+        "value": 4,
+        "price_range": "$2243\u2013$4710"
+      },
+      {
+        "value": 5,
+        "price_range": "$4154\u2013$7343"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Storage Available"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.2,
+    "review_count": 83,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Birmingham Movers",
+    "slug": "birmingham-movers-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(909) 269-6742",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Trusted local movers serving Birmingham and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$365\u2013$627"
+      },
+      {
+        "value": 2,
+        "price_range": "$1168\u2013$1501"
+      },
+      {
+        "value": 4,
+        "price_range": "$2049\u2013$4790"
+      },
+      {
+        "value": 5,
+        "price_range": "$4397\u2013$8500"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Storage Available",
+      "Piano Moving",
+      "Same Day Service",
+      "Commercial Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 142,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Iron City Moving",
+    "slug": "iron-city-moving-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(791) 866-4695",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Trusted local movers serving Birmingham and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$341\u2013$715"
+      },
+      {
+        "value": 2,
+        "price_range": "$837\u2013$1534"
+      },
+      {
+        "value": 4,
+        "price_range": "$2301\u2013$4041"
+      },
+      {
+        "value": 5,
+        "price_range": "$4152\u2013$7534"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Packing Services"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.8,
+    "review_count": 61,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(949) 276-9962",
+    "website": "https://twomenandatruck.com",
+    "address": "Buffalo, NE",
+    "description": "Professional local and long-distance moving services in Buffalo.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$323\u2013$686"
+      },
+      {
+        "value": 2,
+        "price_range": "$1104\u2013$2128"
+      },
+      {
+        "value": 4,
+        "price_range": "$2914\u2013$4988"
+      },
+      {
+        "value": 5,
+        "price_range": "$4942\u2013$7063"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Same Day Service",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.7,
+    "review_count": 130,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(254) 303-6424",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Buffalo, NE",
+    "description": "Professional local and long-distance moving services in Buffalo.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$352\u2013$648"
+      },
+      {
+        "value": 2,
+        "price_range": "$1009\u2013$2067"
+      },
+      {
+        "value": 4,
+        "price_range": "$2739\u2013$5494"
+      },
+      {
+        "value": 5,
+        "price_range": "$4606\u2013$7543"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Packing Services",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.0,
+    "review_count": 342,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(762) 702-3516",
+    "website": "https://www.upack.com",
+    "address": "Buffalo, NE",
+    "description": "Professional local and long-distance moving services in Buffalo.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$313\u2013$692"
+      },
+      {
+        "value": 2,
+        "price_range": "$801\u2013$1937"
+      },
+      {
+        "value": 4,
+        "price_range": "$2089\u2013$4603"
+      },
+      {
+        "value": 5,
+        "price_range": "$4855\u2013$8280"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Licensed & Insured",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 199,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Buffalo Moving & Storage",
+    "slug": "buffalo-moving-and-storage-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(283) 684-2892",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Trusted local movers serving Buffalo and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$378\u2013$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1003\u2013$1982"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500\u2013$5353"
+      },
+      {
+        "value": 5,
+        "price_range": "$4042\u2013$7186"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Commercial Moving",
+      "Storage Available",
+      "Piano Moving",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.0,
+    "review_count": 132,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Nickel City Movers",
+    "slug": "nickel-city-movers-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(676) 469-4706",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Trusted local movers serving Buffalo and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$368\u2013$744"
+      },
+      {
+        "value": 2,
+        "price_range": "$831\u2013$1654"
+      },
+      {
+        "value": 4,
+        "price_range": "$2770\u2013$5426"
+      },
+      {
+        "value": 5,
+        "price_range": "$4866\u2013$7198"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 170,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "WNY Moving Co",
+    "slug": "wny-moving-co-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(432) 766-1999",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Trusted local movers serving Buffalo and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$399\u2013$733"
+      },
+      {
+        "value": 2,
+        "price_range": "$1014\u2013$2048"
+      },
+      {
+        "value": 4,
+        "price_range": "$2703\u2013$4972"
+      },
+      {
+        "value": 5,
+        "price_range": "$4672\u2013$8805"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Packing Services",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.8,
+    "review_count": 28,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(714) 784-9467",
+    "website": "https://twomenandatruck.com",
+    "address": "Milwaukee, WI",
+    "description": "Professional local and long-distance moving services in Milwaukee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$446\u2013$773"
+      },
+      {
+        "value": 2,
+        "price_range": "$1117\u2013$1650"
+      },
+      {
+        "value": 4,
+        "price_range": "$2123\u2013$4919"
+      },
+      {
+        "value": 5,
+        "price_range": "$3854\u2013$8943"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Licensed & Insured",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.0,
+    "review_count": 90,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(899) 645-4308",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Milwaukee, WI",
+    "description": "Professional local and long-distance moving services in Milwaukee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$460\u2013$637"
+      },
+      {
+        "value": 2,
+        "price_range": "$1104\u2013$1764"
+      },
+      {
+        "value": 4,
+        "price_range": "$2327\u2013$5489"
+      },
+      {
+        "value": 5,
+        "price_range": "$3637\u2013$7178"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Long Distance",
+      "Storage Available"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.3,
+    "review_count": 191,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(732) 669-1202",
+    "website": "https://www.upack.com",
+    "address": "Milwaukee, WI",
+    "description": "Professional local and long-distance moving services in Milwaukee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$479\u2013$759"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100\u2013$2035"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800\u2013$4859"
+      },
+      {
+        "value": 5,
+        "price_range": "$3730\u2013$7848"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Licensed & Insured",
+      "Long Distance"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.5,
+    "review_count": 101,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Brew City Movers",
+    "slug": "brew-city-movers-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(308) 776-2654",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Trusted local movers serving Milwaukee and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$373\u2013$737"
+      },
+      {
+        "value": 2,
+        "price_range": "$976\u2013$1920"
+      },
+      {
+        "value": 4,
+        "price_range": "$2270\u2013$4784"
+      },
+      {
+        "value": 5,
+        "price_range": "$4841\u2013$7994"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured",
+      "Packing Services",
+      "Storage Available",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 197,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Milwaukee Moving Co",
+    "slug": "milwaukee-moving-co-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(611) 239-7484",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Trusted local movers serving Milwaukee and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$384\u2013$776"
+      },
+      {
+        "value": 2,
+        "price_range": "$921\u2013$1550"
+      },
+      {
+        "value": 4,
+        "price_range": "$2763\u2013$4973"
+      },
+      {
+        "value": 5,
+        "price_range": "$4050\u2013$8837"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Packing Services",
+      "Piano Moving",
+      "Same Day Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.8,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Lakefront Moving",
+    "slug": "lakefront-moving-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(901) 300-4734",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Trusted local movers serving Milwaukee and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$334\u2013$676"
+      },
+      {
+        "value": 2,
+        "price_range": "$1180\u2013$1953"
+      },
+      {
+        "value": 4,
+        "price_range": "$2792\u2013$4657"
+      },
+      {
+        "value": 5,
+        "price_range": "$4051\u2013$8492"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Commercial Moving",
+      "Storage Available",
+      "Piano Moving",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 152,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(582) 257-9442",
+    "website": "https://twomenandatruck.com",
+    "address": "Tucson, AR",
+    "description": "Professional local and long-distance moving services in Tucson.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$340\u2013$616"
+      },
+      {
+        "value": 2,
+        "price_range": "$959\u2013$2018"
+      },
+      {
+        "value": 4,
+        "price_range": "$2413\u2013$4277"
+      },
+      {
+        "value": 5,
+        "price_range": "$4573\u2013$8800"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 177,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(233) 667-1828",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Tucson, AR",
+    "description": "Professional local and long-distance moving services in Tucson.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$392\u2013$780"
+      },
+      {
+        "value": 2,
+        "price_range": "$901\u2013$1780"
+      },
+      {
+        "value": 4,
+        "price_range": "$2377\u2013$4950"
+      },
+      {
+        "value": 5,
+        "price_range": "$4534\u2013$7812"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Same Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 278,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(381) 685-6730",
+    "website": "https://www.upack.com",
+    "address": "Tucson, AR",
+    "description": "Professional local and long-distance moving services in Tucson.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$388\u2013$641"
+      },
+      {
+        "value": 2,
+        "price_range": "$932\u2013$1592"
+      },
+      {
+        "value": 4,
+        "price_range": "$2291\u2013$4056"
+      },
+      {
+        "value": 5,
+        "price_range": "$4291\u2013$7101"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Piano Moving",
+      "Long Distance"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 165,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tucson Moving Service",
+    "slug": "tucson-moving-service-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(893) 411-5408",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Trusted local movers serving Tucson and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$466\u2013$704"
+      },
+      {
+        "value": 2,
+        "price_range": "$1062\u2013$1520"
+      },
+      {
+        "value": 4,
+        "price_range": "$2885\u2013$5397"
+      },
+      {
+        "value": 5,
+        "price_range": "$3518\u2013$7970"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Long Distance",
+      "Free Estimates"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.2,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Desert Movers Tucson",
+    "slug": "desert-movers-tucson-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(929) 926-5511",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Trusted local movers serving Tucson and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$408\u2013$696"
+      },
+      {
+        "value": 2,
+        "price_range": "$978\u2013$1970"
+      },
+      {
+        "value": 4,
+        "price_range": "$2258\u2013$4446"
+      },
+      {
+        "value": 5,
+        "price_range": "$4455\u2013$7618"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Free Estimates",
+      "Long Distance",
+      "Packing Services",
+      "Same Day Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.6,
+    "review_count": 143,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Old Pueblo Moving",
+    "slug": "old-pueblo-moving-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(265) 544-5529",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Trusted local movers serving Tucson and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$463\u2013$683"
+      },
+      {
+        "value": 2,
+        "price_range": "$941\u2013$1767"
+      },
+      {
+        "value": 4,
+        "price_range": "$2671\u2013$5456"
+      },
+      {
+        "value": 5,
+        "price_range": "$4834\u2013$7611"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Long Distance",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.7,
+    "review_count": 173,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(613) 876-6236",
+    "website": "https://twomenandatruck.com",
+    "address": "El Paso, TE",
+    "description": "Professional local and long-distance moving services in El Paso.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$474\u2013$635"
+      },
+      {
+        "value": 2,
+        "price_range": "$1169\u2013$1526"
+      },
+      {
+        "value": 4,
+        "price_range": "$2671\u2013$5018"
+      },
+      {
+        "value": 5,
+        "price_range": "$4105\u2013$7531"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Storage Available",
+      "Commercial Moving"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.0,
+    "review_count": 342,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(394) 551-4643",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "El Paso, TE",
+    "description": "Professional local and long-distance moving services in El Paso.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$475\u2013$736"
+      },
+      {
+        "value": 2,
+        "price_range": "$1126\u2013$1987"
+      },
+      {
+        "value": 4,
+        "price_range": "$2928\u2013$5375"
+      },
+      {
+        "value": 5,
+        "price_range": "$4234\u2013$8038"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Piano Moving",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.7,
+    "review_count": 142,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(500) 299-8713",
+    "website": "https://www.upack.com",
+    "address": "El Paso, TE",
+    "description": "Professional local and long-distance moving services in El Paso.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$332\u2013$789"
+      },
+      {
+        "value": 2,
+        "price_range": "$932\u2013$2072"
+      },
+      {
+        "value": 4,
+        "price_range": "$2781\u2013$4374"
+      },
+      {
+        "value": 5,
+        "price_range": "$4892\u2013$8842"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Commercial Moving",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 207,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "El Paso Moving Co",
+    "slug": "el-paso-moving-co-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(630) 539-7089",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Trusted local movers serving El Paso and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$366\u2013$749"
+      },
+      {
+        "value": 2,
+        "price_range": "$950\u2013$1974"
+      },
+      {
+        "value": 4,
+        "price_range": "$2871\u2013$4241"
+      },
+      {
+        "value": 5,
+        "price_range": "$4463\u2013$7109"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.1,
+    "review_count": 194,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sun City Movers",
+    "slug": "sun-city-movers-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(590) 742-5888",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Trusted local movers serving El Paso and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$405\u2013$613"
+      },
+      {
+        "value": 2,
+        "price_range": "$877\u2013$1640"
+      },
+      {
+        "value": 4,
+        "price_range": "$2205\u2013$4701"
+      },
+      {
+        "value": 5,
+        "price_range": "$4338\u2013$8166"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Commercial Moving",
+      "Same Day Service",
+      "Licensed & Insured",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.3,
+    "review_count": 65,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Borderland Moving",
+    "slug": "borderland-moving-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(520) 849-1950",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Trusted local movers serving El Paso and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$301\u2013$715"
+      },
+      {
+        "value": 2,
+        "price_range": "$940\u2013$1714"
+      },
+      {
+        "value": 4,
+        "price_range": "$2779\u2013$4345"
+      },
+      {
+        "value": 5,
+        "price_range": "$4680\u2013$8565"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Piano Moving",
+      "Free Estimates"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.6,
+    "review_count": 182,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(639) 613-8029",
+    "website": "https://twomenandatruck.com",
+    "address": "Albuquerque, NE",
+    "description": "Professional local and long-distance moving services in Albuquerque.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$422\u2013$698"
+      },
+      {
+        "value": 2,
+        "price_range": "$802\u2013$1538"
+      },
+      {
+        "value": 4,
+        "price_range": "$2546\u2013$4408"
+      },
+      {
+        "value": 5,
+        "price_range": "$4996\u2013$7764"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Packing Services",
+      "Long Distance"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.0,
+    "review_count": 52,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(841) 951-5076",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Albuquerque, NE",
+    "description": "Professional local and long-distance moving services in Albuquerque.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$357\u2013$777"
+      },
+      {
+        "value": 2,
+        "price_range": "$976\u2013$1819"
+      },
+      {
+        "value": 4,
+        "price_range": "$2132\u2013$4210"
+      },
+      {
+        "value": 5,
+        "price_range": "$4285\u2013$8030"
+      }
+    ],
+    "amenities": [
+      "Long Distance",
+      "Licensed & Insured",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(666) 945-9524",
+    "website": "https://www.upack.com",
+    "address": "Albuquerque, NE",
+    "description": "Professional local and long-distance moving services in Albuquerque.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$452\u2013$734"
+      },
+      {
+        "value": 2,
+        "price_range": "$972\u2013$1944"
+      },
+      {
+        "value": 4,
+        "price_range": "$2909\u2013$5406"
+      },
+      {
+        "value": 5,
+        "price_range": "$3774\u2013$7701"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Packing Services",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 256,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "ABQ Moving Company",
+    "slug": "abq-moving-company-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(219) 433-4675",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Trusted local movers serving Albuquerque and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$486\u2013$633"
+      },
+      {
+        "value": 2,
+        "price_range": "$908\u2013$1522"
+      },
+      {
+        "value": 4,
+        "price_range": "$2603\u2013$5033"
+      },
+      {
+        "value": 5,
+        "price_range": "$3846\u2013$7252"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Storage Available",
+      "Same Day Service",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 172,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Duke City Movers",
+    "slug": "duke-city-movers-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(249) 877-2771",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Trusted local movers serving Albuquerque and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$467\u2013$605"
+      },
+      {
+        "value": 2,
+        "price_range": "$824\u2013$1618"
+      },
+      {
+        "value": 4,
+        "price_range": "$2426\u2013$4909"
+      },
+      {
+        "value": 5,
+        "price_range": "$4278\u2013$7253"
+      }
+    ],
+    "amenities": [
+      "Commercial Moving",
+      "Same Day Service",
+      "Licensed & Insured",
+      "Piano Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 22,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rio Grande Moving",
+    "slug": "rio-grande-moving-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(508) 630-2654",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Trusted local movers serving Albuquerque and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$469\u2013$733"
+      },
+      {
+        "value": 2,
+        "price_range": "$938\u2013$2137"
+      },
+      {
+        "value": 4,
+        "price_range": "$2620\u2013$5435"
+      },
+      {
+        "value": 5,
+        "price_range": "$3780\u2013$7857"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Packing Services"
+    ],
+    "service_area_miles": 15,
+    "rating": 4.7,
+    "review_count": 147,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(403) 823-4272",
+    "website": "https://twomenandatruck.com",
+    "address": "Omaha, NE",
+    "description": "Professional local and long-distance moving services in Omaha.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$499\u2013$667"
+      },
+      {
+        "value": 2,
+        "price_range": "$1067\u2013$1706"
+      },
+      {
+        "value": 4,
+        "price_range": "$2366\u2013$5440"
+      },
+      {
+        "value": 5,
+        "price_range": "$4339\u2013$7604"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Free Estimates",
+      "Long Distance"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 296,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(538) 440-1044",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Omaha, NE",
+    "description": "Professional local and long-distance moving services in Omaha.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$303\u2013$771"
+      },
+      {
+        "value": 2,
+        "price_range": "$845\u2013$1613"
+      },
+      {
+        "value": 4,
+        "price_range": "$2855\u2013$5175"
+      },
+      {
+        "value": 5,
+        "price_range": "$4870\u2013$8011"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Free Estimates",
+      "Long Distance"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 101,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(462) 859-4787",
+    "website": "https://www.upack.com",
+    "address": "Omaha, NE",
+    "description": "Professional local and long-distance moving services in Omaha.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$416\u2013$675"
+      },
+      {
+        "value": 2,
+        "price_range": "$935\u2013$1975"
+      },
+      {
+        "value": 4,
+        "price_range": "$2051\u2013$4204"
+      },
+      {
+        "value": 5,
+        "price_range": "$3857\u2013$8790"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Piano Moving",
+      "Packing Services"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 210,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Omaha Moving Company",
+    "slug": "omaha-moving-company-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(636) 956-2898",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Trusted local movers serving Omaha and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$324\u2013$794"
+      },
+      {
+        "value": 2,
+        "price_range": "$823\u2013$1509"
+      },
+      {
+        "value": 4,
+        "price_range": "$2872\u2013$4283"
+      },
+      {
+        "value": 5,
+        "price_range": "$4858\u2013$8325"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Packing Services",
+      "Storage Available"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 43,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Heartland Movers",
+    "slug": "heartland-movers-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(581) 550-3996",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Trusted local movers serving Omaha and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$329\u2013$702"
+      },
+      {
+        "value": 2,
+        "price_range": "$1004\u2013$1967"
+      },
+      {
+        "value": 4,
+        "price_range": "$2278\u2013$4789"
+      },
+      {
+        "value": 5,
+        "price_range": "$4912\u2013$8742"
+      }
+    ],
+    "amenities": [
+      "Piano Moving",
+      "Same Day Service",
+      "Licensed & Insured",
+      "Free Estimates",
+      "Commercial Moving"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 60,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Cornhusker Moving",
+    "slug": "cornhusker-moving-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(306) 626-8908",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Trusted local movers serving Omaha and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$445\u2013$773"
+      },
+      {
+        "value": 2,
+        "price_range": "$1024\u2013$1685"
+      },
+      {
+        "value": 4,
+        "price_range": "$2625\u2013$4777"
+      },
+      {
+        "value": 5,
+        "price_range": "$4234\u2013$8252"
+      }
+    ],
+    "amenities": [
+      "Packing Services",
+      "Storage Available"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 125,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(651) 247-2037",
+    "website": "https://twomenandatruck.com",
+    "address": "Tulsa, OK",
+    "description": "Professional local and long-distance moving services in Tulsa.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$366\u2013$767"
+      },
+      {
+        "value": 2,
+        "price_range": "$960\u2013$1512"
+      },
+      {
+        "value": 4,
+        "price_range": "$2721\u2013$5388"
+      },
+      {
+        "value": 5,
+        "price_range": "$4574\u2013$8571"
+      }
+    ],
+    "amenities": [
+      "Storage Available",
+      "Same Day Service",
+      "Packing Services"
+    ],
+    "service_area_miles": 50,
+    "rating": 4.4,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-and-moving-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(643) 877-5072",
+    "website": "https://www.collegehunkshaulingjunk.com",
+    "address": "Tulsa, OK",
+    "description": "Professional local and long-distance moving services in Tulsa.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$423\u2013$688"
+      },
+      {
+        "value": 2,
+        "price_range": "$1139\u2013$2192"
+      },
+      {
+        "value": 4,
+        "price_range": "$2656\u2013$4788"
+      },
+      {
+        "value": 5,
+        "price_range": "$3804\u2013$8718"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Commercial Moving",
+      "Same Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 290,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(707) 369-2226",
+    "website": "https://www.upack.com",
+    "address": "Tulsa, OK",
+    "description": "Professional local and long-distance moving services in Tulsa.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$492\u2013$725"
+      },
+      {
+        "value": 2,
+        "price_range": "$964\u2013$1746"
+      },
+      {
+        "value": 4,
+        "price_range": "$2338\u2013$4569"
+      },
+      {
+        "value": 5,
+        "price_range": "$3603\u2013$8038"
+      }
+    ],
+    "amenities": [
+      "Storage Available",
+      "Long Distance",
+      "Same Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 170,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tulsa Moving Service",
+    "slug": "tulsa-moving-service-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(280) 670-8277",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Trusted local movers serving Tulsa and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$446\u2013$714"
+      },
+      {
+        "value": 2,
+        "price_range": "$845\u2013$2010"
+      },
+      {
+        "value": 4,
+        "price_range": "$2457\u2013$4647"
+      },
+      {
+        "value": 5,
+        "price_range": "$3743\u2013$8018"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Storage Available"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.0,
+    "review_count": 160,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Green Country Movers",
+    "slug": "green-country-movers-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(200) 293-5990",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Trusted local movers serving Tulsa and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$430\u2013$743"
+      },
+      {
+        "value": 2,
+        "price_range": "$905\u2013$2170"
+      },
+      {
+        "value": 4,
+        "price_range": "$2687\u2013$4934"
+      },
+      {
+        "value": 5,
+        "price_range": "$4198\u2013$7744"
+      }
+    ],
+    "amenities": [
+      "Storage Available",
+      "Piano Moving"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.3,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "T-Town Moving Co",
+    "slug": "t-town-moving-co-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(814) 684-6952",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Trusted local movers serving Tulsa and surrounding areas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$483\u2013$715"
+      },
+      {
+        "value": 2,
+        "price_range": "$858\u2013$1599"
+      },
+      {
+        "value": 4,
+        "price_range": "$2777\u2013$5349"
+      },
+      {
+        "value": 5,
+        "price_range": "$3954\u2013$7004"
+      }
+    ],
+    "amenities": [
+      "Same Day Service",
+      "Piano Moving",
+      "Commercial Moving",
+      "Packing Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 199,
     "verified": false,
     "pricing_estimated": true
   }
