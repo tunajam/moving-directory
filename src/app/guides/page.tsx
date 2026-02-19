@@ -12,6 +12,16 @@ export const metadata: Metadata = {
  */
 const GUIDES = [
   {
+    slug: 'how-to-choose-moving-company',
+    title: 'How to Choose a Moving Company',
+    excerpt: 'DOT licensing, binding vs non-binding estimates, insurance options, red flags, and questions to ask.',
+  },
+  {
+    slug: 'moving-checklist',
+    title: 'Complete Moving Checklist: 8 Weeks to Moving Day',
+    excerpt: 'Week-by-week timeline, packing tips, utility transfer guide, and everything you need before, during, and after.',
+  },
+  {
     slug: 'getting-started',
     title: `Getting Started with ${config.industry.singular}`,
     excerpt: 'Everything you need to know before hiring a provider.',
