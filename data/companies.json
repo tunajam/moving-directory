@@ -1,0 +1,3642 @@
+[
+  {
+    "name": "Einstein Moving Company",
+    "slug": "einstein-moving-company-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 815-8781",
+    "website": "https://einsteinmoving.com",
+    "address": "9200 Brown Lane Suite A, Austin, TX 78754",
+    "description": "Customer-first moving company with transparent pricing and trained crews. Local and long distance moves across Texas.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "ATX Movers",
+    "slug": "atx-movers-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 921-3995",
+    "website": "https://atx-movers.com",
+    "address": "1779 Wells Branch Pkwy Suite 110B, Austin, TX 78728",
+    "description": "Veteran-owned moving company serving Austin since 2008. Transparent hourly pricing with no hidden fees.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$600"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1600"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Unicorn Moving & Storage",
+    "slug": "unicorn-moving-storage-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 339-9922",
+    "website": "https://unicornmoving.com",
+    "address": "102 Victor St, Austin, TX 78753",
+    "description": "Locally owned Austin mover for over 30 years. Full-service relocations with climate-controlled storage.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Square Cow Movers",
+    "slug": "square-cow-movers-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 872-8384",
+    "website": "https://squarecowmovers.com",
+    "address": "1905 Kramer Ln Suite B, Austin, TX 78758",
+    "description": "Award-winning Texas moving company known for exceptional customer service and reliability.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Austin, TX",
+    "description": "Nationwide moving company with local Austin operations. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$1900"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Austin, TX",
+    "description": "Nationally franchised moving company with local crews. Known for The Grandma Rule — treat every move like it's your grandma's.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Heavenly Moving & Storage",
+    "slug": "heavenly-moving-storage-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 362-4700",
+    "website": "https://heavenlymove.com",
+    "address": "Austin, TX",
+    "description": "Completed over 35,000 moves in Austin over the past 20 years. Trusted local mover with storage options.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$7500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(773) 244-2345",
+    "website": "https://twomenandatruck.com",
+    "address": "Chicago, IL",
+    "description": "Full-service moving company with trained local crews in the Chicago area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "New City Moving",
+    "slug": "new-city-moving-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(312) 721-7272",
+    "website": "https://newcitymoving.com",
+    "address": "1440 N Kingsbury St, Chicago, IL 60642",
+    "description": "Chicago's highest-rated moving company. Professional residential and commercial movers.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Moovers Chicago",
+    "slug": "moovers-chicago-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(312) 300-6683",
+    "website": "https://mooverschicago.com",
+    "address": "Chicago, IL",
+    "description": "Reliable local movers specializing in Chicago apartment moves. Trained to navigate high-rises and walk-ups.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Federal Companies",
+    "slug": "federal-companies-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(866) 602-6683",
+    "website": "https://federalcos.com",
+    "address": "Chicago, IL",
+    "description": "Full-service moving and storage company serving the Chicagoland area for over 100 years.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hollander International Storage & Moving",
+    "slug": "hollander-international-storage-moving-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "(312) 432-1130",
+    "website": "https://hollanderinternational.com",
+    "address": "5800 W Roosevelt Rd, Chicago, IL 60644",
+    "description": "Chicago moving company with over 130 years of experience. Residential and commercial relocation services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2400"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4500-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Denver Moving Company",
+    "slug": "denver-moving-company-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(303) 500-7580",
+    "website": "https://denvermovingcompany.com",
+    "address": "Denver, CO",
+    "description": "Locally owned Denver mover offering residential and commercial moving services at competitive rates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(720) 515-8414",
+    "website": "https://twomenandatruck.com",
+    "address": "Denver, CO",
+    "description": "National franchise with Denver-area crews. Full-service local and long-distance moving.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Colorado Premier Moving",
+    "slug": "colorado-premier-moving-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(720) 636-2587",
+    "website": "https://coloradopremiermoving.com",
+    "address": "Denver, CO",
+    "description": "Top-rated Denver movers with flat-rate pricing and no hidden fees. Residential and commercial.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Local Moving LLC",
+    "slug": "local-moving-llc-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "(303) 355-1515",
+    "website": "https://localmovingllc.com",
+    "address": "Denver, CO",
+    "description": "Full-service moving company specializing in Denver metro area residential moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$300-$600"
+      },
+      {
+        "value": 2,
+        "price_range": "$750-$1600"
+      },
+      {
+        "value": 4,
+        "price_range": "$2000-$4000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Phoenix Moving Company",
+    "slug": "phoenix-moving-company-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(480) 376-7899",
+    "website": "https://phoenixmovingcompany.com",
+    "address": "Phoenix, AZ",
+    "description": "Professional local movers in Phoenix. Residential and commercial moving with packing services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$300-$600"
+      },
+      {
+        "value": 2,
+        "price_range": "$750-$1600"
+      },
+      {
+        "value": 4,
+        "price_range": "$2000-$3800"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Muscular Moving Men",
+    "slug": "muscular-moving-men-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(602) 923-6400",
+    "website": "https://muscularmovingmen.com",
+    "address": "4725 N 43rd Ave Suite 1, Phoenix, AZ 85031",
+    "description": "Award-winning Phoenix moving company with professional, uniformed crews. Storage available.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Lifetime Moving & Storage",
+    "slug": "lifetime-moving-storage-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(480) 536-5020",
+    "website": "https://lifetimemoving.com",
+    "address": "Phoenix, AZ",
+    "description": "Full-service moving and storage in the Phoenix metro. Over 15 years serving Arizona families.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$300-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1700"
+      },
+      {
+        "value": 4,
+        "price_range": "$2100-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(602) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Phoenix, AZ",
+    "description": "National franchise with Phoenix crews. Residential, commercial, and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Piece of Cake Moving & Storage",
+    "slug": "piece-of-cake-moving-storage-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(212) 651-7273",
+    "website": "https://pieceofcakemoving.com",
+    "address": "315 W 36th St, New York, NY 10018",
+    "description": "NYC's top-rated moving company. Specializing in apartment moves, commercial moves, and storage.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1200-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$3000-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "FlatRate Moving",
+    "slug": "flatrate-moving-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(212) 988-1926",
+    "website": "https://flatrate.com",
+    "address": "1 Whitehall St, New York, NY 10004",
+    "description": "Flat-rate pricing for stress-free moves in NYC. No hidden fees, guaranteed price.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2400"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4500-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Dumbo Moving and Storage",
+    "slug": "dumbo-moving-and-storage-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(718) 768-1800",
+    "website": "https://dumbomoving.com",
+    "address": "Brooklyn, NY",
+    "description": "Brooklyn-based moving company serving all five boroughs. Commercial and residential moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Oz Moving & Storage",
+    "slug": "oz-moving-storage-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(212) 244-4416",
+    "website": "https://ozmoving.com",
+    "address": "132 W 31st St, New York, NY 10001",
+    "description": "Eco-friendly NYC movers using reusable bins. Professional crews for apartment and office moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4500-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-new-york",
+    "city": "New York",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "new-york",
+    "phone": "(212) 721-5555",
+    "website": "https://twomenandatruck.com",
+    "address": "New York, NY",
+    "description": "National franchise serving the NYC metro area with trained local crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2400"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "PODS Moving & Storage",
+    "slug": "pods-moving-storage-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(877) 770-7637",
+    "website": "https://pods.com",
+    "address": "Los Angeles, CA",
+    "description": "Portable moving and storage containers delivered to your door. Load at your own pace.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(844) 611-4582",
+    "website": "https://upack.com",
+    "address": "Los Angeles, CA",
+    "description": "You pack, they drive. Affordable long-distance moving with portable containers or trailers.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2000-$4000"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Pure Moving Company",
+    "slug": "pure-moving-company-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(310) 341-4412",
+    "website": "https://puremoving.com",
+    "address": "Los Angeles, CA",
+    "description": "Licensed and insured LA movers. Residential and commercial moves with packing services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Trek Movers",
+    "slug": "trek-movers-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(213) 400-0505",
+    "website": "https://trekmovers.com",
+    "address": "Los Angeles, CA",
+    "description": "Los Angeles movers offering local and long-distance moving with flat-rate pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Meathead Movers",
+    "slug": "meathead-movers-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(805) 633-0100",
+    "website": "https://meatheadmovers.com",
+    "address": "Los Angeles, CA",
+    "description": "Student-athlete movers known for jogging when not carrying items. Fun, reliable moving service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2300"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "(818) 266-7080",
+    "website": "https://allmysons.com",
+    "address": "Los Angeles, CA",
+    "description": "National moving company with LA operations. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bellhop Moving",
+    "slug": "bellhop-moving-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(404) 592-6466",
+    "website": "https://getbellhops.com",
+    "address": "Atlanta, GA",
+    "description": "Tech-enabled moving company with transparent pricing. Book online in minutes.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(770) 485-6683",
+    "website": "https://twomenandatruck.com",
+    "address": "Atlanta, GA",
+    "description": "Full-service moving in metro Atlanta. Local and long-distance residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Zip Moving & Storage",
+    "slug": "zip-moving-storage-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(770) 552-8800",
+    "website": "https://zipmoving.us",
+    "address": "Atlanta, GA",
+    "description": "Atlanta-based movers offering local and long-distance moving with packing and storage.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Mark the Mover",
+    "slug": "mark-the-mover-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(404) 965-1800",
+    "website": "https://markthemover.com",
+    "address": "Atlanta, GA",
+    "description": "Locally owned Atlanta moving company. Residential, commercial, and senior moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1700"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "3 Men Movers",
+    "slug": "3-men-movers-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 333-6683",
+    "website": "https://3menmovers.com",
+    "address": "Houston, TX",
+    "description": "Houston's trusted movers since 1985. Residential and commercial moving with storage.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$7500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 316-7683",
+    "website": "https://twomenandatruck.com",
+    "address": "Houston, TX",
+    "description": "National franchise with Houston crews. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Einstein Moving Company",
+    "slug": "einstein-moving-company-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 597-8047",
+    "website": "https://einsteinmoving.com",
+    "address": "Houston, TX",
+    "description": "Texas-based moving company with trained crews. Transparent pricing and professional service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 255-9498",
+    "website": "https://allmysons.com",
+    "address": "Houston, TX",
+    "description": "National mover with Houston operations. Full-service local and long-distance moving.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-moving-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 291-3700",
+    "website": "https://collegehunkshaulingjunk.com",
+    "address": "Houston, TX",
+    "description": "Full-service moving and junk removal. Uniformed, trained crews with transparent pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Suddath Moving",
+    "slug": "suddath-moving-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "(305) 722-5880",
+    "website": "https://suddath.com",
+    "address": "Miami, FL",
+    "description": "Full-service relocation company with over 100 years of experience. Local and international moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "(305) 485-6683",
+    "website": "https://twomenandatruck.com",
+    "address": "Miami, FL",
+    "description": "National franchise with Miami crews. Residential and commercial local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Orange Movers Miami",
+    "slug": "orange-movers-miami-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "(786) 232-0236",
+    "website": "https://orangemoversmiami.com",
+    "address": "Miami, FL",
+    "description": "Local Miami movers with competitive rates. Apartment, house, and office moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Miami Movers for Less",
+    "slug": "miami-movers-for-less-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "(305) 600-0975",
+    "website": "https://miamimoversforless.com",
+    "address": "Miami, FL",
+    "description": "Affordable Miami moving company. No hidden fees with upfront flat-rate pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$300-$600"
+      },
+      {
+        "value": 2,
+        "price_range": "$750-$1600"
+      },
+      {
+        "value": 4,
+        "price_range": "$2000-$3800"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Safeway Moving",
+    "slug": "safeway-moving-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 900-3560",
+    "website": "https://safewaymoving.com",
+    "address": "Seattle, WA",
+    "description": "Top-rated long-distance movers. Full-service packing, moving, and storage solutions.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Seattle, WA",
+    "description": "National franchise serving the Seattle metro area with trained moving crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2300"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hansen Bros Moving & Storage",
+    "slug": "hansen-bros-moving-storage-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 623-1400",
+    "website": "https://hansenbros.com",
+    "address": "7527 Airport Way S, Seattle, WA 98108",
+    "description": "Family-owned Seattle movers since 1890. Residential and commercial moves with storage.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2400"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Gentle Giant Moving Company",
+    "slug": "gentle-giant-moving-company-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "(206) 414-4287",
+    "website": "https://gentlegiant.com",
+    "address": "Seattle, WA",
+    "description": "Premium moving company with highly trained crews. Known for careful handling and customer service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4500-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "PODS Moving & Storage",
+    "slug": "pods-moving-storage-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(877) 770-7637",
+    "website": "https://pods.com",
+    "address": "Dallas, TX",
+    "description": "Portable moving containers. Load at your own pace and they deliver to your new home.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(972) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Dallas, TX",
+    "description": "National franchise with Dallas crews. Full-service residential and commercial moving.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Einstein Moving Company",
+    "slug": "einstein-moving-company-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(972) 703-8047",
+    "website": "https://einsteinmoving.com",
+    "address": "Dallas, TX",
+    "description": "Texas-based moving company expanding across the state. Professional crews and transparent pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-moving-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(972) 291-3700",
+    "website": "https://collegehunkshaulingjunk.com",
+    "address": "Dallas, TX",
+    "description": "Moving and junk removal with uniformed, trained crews. Book online for transparent pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(972) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Dallas, TX",
+    "description": "National mover with local Dallas operations. Residential and commercial full-service moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(844) 611-4582",
+    "website": "https://upack.com",
+    "address": "Dallas, TX",
+    "description": "You pack, they drive. Affordable long-distance moves with containers or trailers.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$850-$1700"
+      },
+      {
+        "value": 4,
+        "price_range": "$2000-$3800"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Gentle Giant Moving Company",
+    "slug": "gentle-giant-moving-company-boston",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_slug": "massachusetts",
+    "city_slug": "boston",
+    "phone": "(617) 661-4600",
+    "website": "https://gentlegiant.com",
+    "address": "21 Eliot St, South Boston, MA 02127",
+    "description": "Premium Boston movers with highly trained athletic crews. Residential and commercial moving.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1200-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$3000-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4500-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-boston",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_slug": "massachusetts",
+    "city_slug": "boston",
+    "phone": "(617) 500-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Boston, MA",
+    "description": "National franchise with Boston-area crews. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2400"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Stairhopper Movers",
+    "slug": "stairhopper-movers-boston",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_slug": "massachusetts",
+    "city_slug": "boston",
+    "phone": "(857) 928-0876",
+    "website": "https://stairhoppermovers.com",
+    "address": "Boston, MA",
+    "description": "Top-rated Boston movers specializing in navigating narrow staircases and tight spaces.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Olympia Moving & Storage",
+    "slug": "olympia-moving-storage-boston",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_slug": "massachusetts",
+    "city_slug": "boston",
+    "phone": "(800) 222-4744",
+    "website": "https://olympiamoving.com",
+    "address": "Boston, MA",
+    "description": "Full-service moving and storage for Boston residential and commercial relocations.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Allied Van Lines",
+    "slug": "allied-van-lines-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(800) 689-8684",
+    "website": "https://allied.com",
+    "address": "San Francisco, CA",
+    "description": "National van line offering full-service local and long-distance moves with experienced crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1200-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$3000-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Delancey Street Movers",
+    "slug": "delancey-street-movers-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(415) 512-5104",
+    "website": "https://delanceystreetfoundation.org",
+    "address": "San Francisco, CA",
+    "description": "Nonprofit moving company providing affordable, reliable moves in the Bay Area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1700"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "NorthStar Moving Company",
+    "slug": "northstar-moving-company-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(800) 275-7767",
+    "website": "https://northstarmoving.com",
+    "address": "San Francisco, CA",
+    "description": "Luxury eco-friendly moving company. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1200-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$3000-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4500-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(415) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "San Francisco, CA",
+    "description": "National franchise with Bay Area crews. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2400"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Mayflower Moving",
+    "slug": "mayflower-moving-san-francisco",
+    "city": "San Francisco",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-francisco",
+    "phone": "(833) 537-9514",
+    "website": "https://mayflower.com",
+    "address": "San Francisco, CA",
+    "description": "One of America's most trusted moving companies since 1927. Full-service local and cross-country moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$500-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1200-$2500"
+      },
+      {
+        "value": 4,
+        "price_range": "$3000-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4500-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "(615) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Nashville, TN",
+    "description": "National franchise with Nashville crews. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bellhop Moving",
+    "slug": "bellhop-moving-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "(615) 592-6466",
+    "website": "https://getbellhops.com",
+    "address": "Nashville, TN",
+    "description": "Tech-enabled moving company. Book online with transparent pricing and trained crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "(615) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Nashville, TN",
+    "description": "National mover with Nashville operations. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-moving-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "(615) 291-3700",
+    "website": "https://collegehunkshaulingjunk.com",
+    "address": "Nashville, TN",
+    "description": "Moving and junk removal services. Professional, uniformed crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "(612) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Minneapolis, MN",
+    "description": "National franchise serving the Twin Cities. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Mestler Brothers Moving",
+    "slug": "mestler-brothers-moving-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "(612) 455-0500",
+    "website": "https://mestlerbros.com",
+    "address": "Minneapolis, MN",
+    "description": "Locally owned Twin Cities mover. Residential and commercial moves with upfront pricing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "AAA Moving & Storage",
+    "slug": "aaa-moving-storage-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "(763) 755-5600",
+    "website": "https://aaamoving.com",
+    "address": "Minneapolis, MN",
+    "description": "Full-service moving and storage in the Minneapolis-St Paul metro area since 1965.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "PODS Moving & Storage",
+    "slug": "pods-moving-storage-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "(877) 770-7637",
+    "website": "https://pods.com",
+    "address": "Minneapolis, MN",
+    "description": "Portable storage containers for DIY moves. Delivered to your door, picked up when ready.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "(503) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Portland, OR",
+    "description": "National franchise with Portland crews. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Smooth Moves",
+    "slug": "smooth-moves-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "(503) 444-1100",
+    "website": "https://smoothmovespdx.com",
+    "address": "Portland, OR",
+    "description": "Portland's favorite local movers. Residential moves with careful, trained crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All Service Moving",
+    "slug": "all-service-moving-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "(503) 802-9297",
+    "website": "https://allservicemoving.com",
+    "address": "Portland, OR",
+    "description": "Full-service Portland movers. Residential, commercial, and long-distance moves with storage.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bridgetown Moving & Storage",
+    "slug": "bridgetown-moving-storage-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "(503) 567-3200",
+    "website": "https://bridgetownmoving.com",
+    "address": "Portland, OR",
+    "description": "Locally owned Portland moving company with packing, moving, and storage services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "(704) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Charlotte, NC",
+    "description": "National franchise with Charlotte crews. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "(704) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Charlotte, NC",
+    "description": "National mover with Charlotte operations. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-moving-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "(704) 291-3700",
+    "website": "https://collegehunkshaulingjunk.com",
+    "address": "Charlotte, NC",
+    "description": "Moving and junk removal in Charlotte. Professional uniformed crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bellhop Moving",
+    "slug": "bellhop-moving-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "(704) 592-6466",
+    "website": "https://getbellhops.com",
+    "address": "Charlotte, NC",
+    "description": "Tech-enabled movers with transparent pricing. Book your Charlotte move online.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "PODS Moving & Storage",
+    "slug": "pods-moving-storage-san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-diego",
+    "phone": "(877) 770-7637",
+    "website": "https://pods.com",
+    "address": "San Diego, CA",
+    "description": "Portable moving and storage containers. Load at your pace, they handle delivery.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-diego",
+    "phone": "(858) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "San Diego, CA",
+    "description": "National franchise with San Diego crews. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2300"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Best Fit Movers",
+    "slug": "best-fit-movers-san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-diego",
+    "phone": "(858) 503-0003",
+    "website": "https://bestfitmovers.com",
+    "address": "San Diego, CA",
+    "description": "San Diego's top-rated local movers. Residential and commercial moves with competitive rates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Republic Moving",
+    "slug": "republic-moving-san-diego",
+    "city": "San Diego",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "san-diego",
+    "phone": "(619) 825-5580",
+    "website": "https://republicmoving.com",
+    "address": "San Diego, CA",
+    "description": "Full-service moving company serving San Diego. Residential, office, and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "North American Van Lines",
+    "slug": "north-american-van-lines-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "(800) 228-3092",
+    "website": "https://northamerican.com",
+    "address": "Indianapolis, IN",
+    "description": "One of America's largest van lines. Full-service residential and corporate relocations nationwide.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$450-$800"
+      },
+      {
+        "value": 2,
+        "price_range": "$1100-$2400"
+      },
+      {
+        "value": 4,
+        "price_range": "$2800-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$10000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "(317) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Indianapolis, IN",
+    "description": "National franchise headquartered in the Midwest. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "(317) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Indianapolis, IN",
+    "description": "National mover with Indianapolis operations. Residential and commercial full-service moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "(844) 611-4582",
+    "website": "https://upack.com",
+    "address": "Indianapolis, IN",
+    "description": "You pack, they drive. Budget-friendly long-distance moves with containers or trailers.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$300-$600"
+      },
+      {
+        "value": 2,
+        "price_range": "$750-$1500"
+      },
+      {
+        "value": 4,
+        "price_range": "$1800-$3500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_slug": "ohio",
+    "city_slug": "columbus",
+    "phone": "(614) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Columbus, OH",
+    "description": "National franchise with Columbus crews. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Leaders Moving & Storage",
+    "slug": "leaders-moving-storage-columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_slug": "ohio",
+    "city_slug": "columbus",
+    "phone": "(614) 326-2700",
+    "website": "https://leadersmoving.com",
+    "address": "Columbus, OH",
+    "description": "Ohio's premier moving company. Residential and commercial moves with white-glove service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_slug": "ohio",
+    "city_slug": "columbus",
+    "phone": "(614) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Columbus, OH",
+    "description": "National mover with Columbus operations. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "(919) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Raleigh, NC",
+    "description": "National franchise with Raleigh crews. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-moving-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "(919) 291-3700",
+    "website": "https://collegehunkshaulingjunk.com",
+    "address": "Raleigh, NC",
+    "description": "Moving and junk removal in the Triangle. Professional, uniformed crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$950-$2100"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$4800"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "(919) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Raleigh, NC",
+    "description": "National mover with Raleigh operations. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bellhop Moving",
+    "slug": "bellhop-moving-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "(919) 592-6466",
+    "website": "https://getbellhops.com",
+    "address": "Raleigh, NC",
+    "description": "Tech-enabled movers with transparent online booking. Fast, professional crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "(813) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "Tampa, FL",
+    "description": "National franchise with Tampa Bay crews. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "College Hunks Hauling Junk & Moving",
+    "slug": "college-hunks-hauling-junk-moving-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "(813) 291-3700",
+    "website": "https://collegehunkshaulingjunk.com",
+    "address": "Tampa, FL",
+    "description": "Founded in Tampa. Moving and junk removal with professional, uniformed crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$400-$750"
+      },
+      {
+        "value": 2,
+        "price_range": "$1000-$2200"
+      },
+      {
+        "value": 4,
+        "price_range": "$2500-$5000"
+      },
+      {
+        "value": 5,
+        "price_range": "$4000-$9000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "(813) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "Tampa, FL",
+    "description": "National mover with Tampa operations. Full-service residential and commercial moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bellhop Moving",
+    "slug": "bellhop-moving-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "(813) 592-6466",
+    "website": "https://getbellhops.com",
+    "address": "Tampa, FL",
+    "description": "Tech-forward movers with online booking. Transparent pricing and trained crews.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Two Men and a Truck",
+    "slug": "two-men-and-a-truck-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 900-4190",
+    "website": "https://twomenandatruck.com",
+    "address": "San Antonio, TX",
+    "description": "National franchise with San Antonio crews. Full-service local and long-distance moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "3 Men Movers",
+    "slug": "3-men-movers-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 333-6683",
+    "website": "https://3menmovers.com",
+    "address": "San Antonio, TX",
+    "description": "Texas-based moving company. Residential and commercial moves with packing and storage.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$650"
+      },
+      {
+        "value": 2,
+        "price_range": "$800-$1800"
+      },
+      {
+        "value": 4,
+        "price_range": "$2200-$4200"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$7500"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All My Sons Moving & Storage",
+    "slug": "all-my-sons-moving-storage-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 580-4041",
+    "website": "https://allmysons.com",
+    "address": "San Antonio, TX",
+    "description": "National mover with San Antonio operations. Full-service moves.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$350-$700"
+      },
+      {
+        "value": 2,
+        "price_range": "$900-$2000"
+      },
+      {
+        "value": 4,
+        "price_range": "$2400-$4500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3500-$8000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "U-Pack",
+    "slug": "u-pack-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(844) 611-4582",
+    "website": "https://upack.com",
+    "address": "San Antonio, TX",
+    "description": "You pack, they drive. Budget-friendly moving with portable containers.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$300-$600"
+      },
+      {
+        "value": 2,
+        "price_range": "$750-$1500"
+      },
+      {
+        "value": 4,
+        "price_range": "$1800-$3500"
+      },
+      {
+        "value": 5,
+        "price_range": "$3000-$7000"
+      }
+    ],
+    "amenities": [],
+    "service_area_miles": 25,
+    "rating": 0,
+    "review_count": 0,
+    "verified": false,
+    "pricing_estimated": true
+  }
+]

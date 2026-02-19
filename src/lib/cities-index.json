@@ -1,0 +1,140 @@
+[
+  {
+    "city": "Austin",
+    "city_slug": "austin",
+    "state": "Texas",
+    "state_slug": "texas"
+  },
+  {
+    "city": "Chicago",
+    "city_slug": "chicago",
+    "state": "Illinois",
+    "state_slug": "illinois"
+  },
+  {
+    "city": "Denver",
+    "city_slug": "denver",
+    "state": "Colorado",
+    "state_slug": "colorado"
+  },
+  {
+    "city": "Phoenix",
+    "city_slug": "phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona"
+  },
+  {
+    "city": "New York",
+    "city_slug": "new-york",
+    "state": "New York",
+    "state_slug": "new-york"
+  },
+  {
+    "city": "Los Angeles",
+    "city_slug": "los-angeles",
+    "state": "California",
+    "state_slug": "california"
+  },
+  {
+    "city": "Atlanta",
+    "city_slug": "atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia"
+  },
+  {
+    "city": "Houston",
+    "city_slug": "houston",
+    "state": "Texas",
+    "state_slug": "texas"
+  },
+  {
+    "city": "Miami",
+    "city_slug": "miami",
+    "state": "Florida",
+    "state_slug": "florida"
+  },
+  {
+    "city": "Seattle",
+    "city_slug": "seattle",
+    "state": "Washington",
+    "state_slug": "washington"
+  },
+  {
+    "city": "Dallas",
+    "city_slug": "dallas",
+    "state": "Texas",
+    "state_slug": "texas"
+  },
+  {
+    "city": "Boston",
+    "city_slug": "boston",
+    "state": "Massachusetts",
+    "state_slug": "massachusetts"
+  },
+  {
+    "city": "San Francisco",
+    "city_slug": "san-francisco",
+    "state": "California",
+    "state_slug": "california"
+  },
+  {
+    "city": "Nashville",
+    "city_slug": "nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee"
+  },
+  {
+    "city": "Minneapolis",
+    "city_slug": "minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota"
+  },
+  {
+    "city": "Portland",
+    "city_slug": "portland",
+    "state": "Oregon",
+    "state_slug": "oregon"
+  },
+  {
+    "city": "Charlotte",
+    "city_slug": "charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina"
+  },
+  {
+    "city": "San Diego",
+    "city_slug": "san-diego",
+    "state": "California",
+    "state_slug": "california"
+  },
+  {
+    "city": "Indianapolis",
+    "city_slug": "indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana"
+  },
+  {
+    "city": "Columbus",
+    "city_slug": "columbus",
+    "state": "Ohio",
+    "state_slug": "ohio"
+  },
+  {
+    "city": "Raleigh",
+    "city_slug": "raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina"
+  },
+  {
+    "city": "Tampa",
+    "city_slug": "tampa",
+    "state": "Florida",
+    "state_slug": "florida"
+  },
+  {
+    "city": "San Antonio",
+    "city_slug": "san-antonio",
+    "state": "Texas",
+    "state_slug": "texas"
+  }
+]

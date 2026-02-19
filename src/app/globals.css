@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/*
+ * Theme colors are injected from site.config.ts theme values.
+ * Update site.config.ts to change the palette — these are defaults.
+ */
+@theme inline {
+  --color-primary: #1e3a5f;
+  --color-primary-light: #2a4f7a;
+  --color-primary-dark: #152a45;
+  --color-accent: #f59e0b;
+  --color-accent-light: #fbbf24;
+  --color-accent-dark: #d97706;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color: #1a1a1a;
+  background: #ffffff;
+}
