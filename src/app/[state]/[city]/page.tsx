@@ -3,6 +3,8 @@ import { Metadata } from 'next';
 import { getCompaniesByCity, getCities } from '@/lib/data';
 import { config, t } from '@/lib/config';
 import CityPageClient from './CityPageClient';
+import AdSlot from '@/components/AdSlot';
+import LeadCaptureForm from '@/components/LeadCaptureForm';
 
 type Props = { params: Promise<{ state: string; city: string }> };
 
@@ -78,7 +80,20 @@ export default async function CityPage({ params }: Props) {
         </div>
       </section>
 
+      <AdSlot position="top" className="max-w-5xl mx-auto mt-6 px-4" />
+
       <CityPageClient companies={companies} cityName={cityName} stateName={stateName} />
+
+      <section className="py-10 px-4">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div className="lg:col-span-2">
+            <LeadCaptureForm cityName={cityName} stateName={stateName} />
+          </div>
+          <div className="lg:col-span-1">
+            <AdSlot position="sidebar" />
+          </div>
+        </div>
+      </section>
     </>
   );
 }

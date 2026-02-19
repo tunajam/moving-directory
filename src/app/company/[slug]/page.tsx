@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { getAllCompanies, getCompanyBySlug } from '@/lib/data';
 import { config, t } from '@/lib/config';
 import QuoteForm from '@/components/QuoteForm';
+import ClaimListingForm from '@/components/ClaimListingForm';
+import AdSlot from '@/components/AdSlot';
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -181,18 +183,7 @@ export default async function CompanyPage({ params }: Props) {
 
             {/* Claim Listing */}
             {!isVerified && (
-              <div className="border-2 border-dashed border-accent/40 rounded-xl p-6 bg-accent/5 text-center">
-                <h3 className="font-semibold text-primary text-lg mb-2">Is this your business?</h3>
-                <p className="text-sm text-gray-600 mb-4">
-                  Claim this listing to update your info, add real pricing, respond to quotes, and get a verified badge.
-                </p>
-                <a
-                  href={`mailto:${config.contactEmail}?subject=Claim listing: ${company.name}&body=I'd like to claim the listing for ${company.name} in ${company.city}, ${company.state}.`}
-                  className="inline-block px-6 py-3 bg-accent text-primary font-semibold rounded-lg hover:bg-accent/90 transition-colors"
-                >
-                  Claim This Listing — It&apos;s Free
-                </a>
-              </div>
+              <ClaimListingForm companyName={company.name} companySlug={company.slug} />
             )}
           </div>
 

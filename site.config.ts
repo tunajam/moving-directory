@@ -83,6 +83,27 @@ const siteConfig = {
     description: 'Expert advice on moving costs, planning tips, and hiring movers.',
   },
 
+  // ── Monetization ─────────────────────────────────────────
+  monetization: {
+    ads: {
+      enabled: true,
+      topSlot: true,
+      sidebarSlot: true,
+    },
+    claimListing: {
+      enabled: true,
+      heading: 'Is this your business?',
+      subheading: 'Claim this listing to update your info, add real pricing, respond to quotes, and get a verified badge.',
+      buttonText: 'Claim This Listing — It\'s Free',
+    },
+    leadCapture: {
+      enabled: true,
+      heading: 'Get Free Quotes',
+      subheading: 'Tell us what you need and get quotes from top-rated local companies.',
+      buttonText: 'Get My Free Quotes →',
+      successMessage: 'Thanks! Local companies will reach out within 1 business day.',
+    },
+  },
   // ── Analytics ───────────────────────────────────────────
   posthog: {
     key: '',

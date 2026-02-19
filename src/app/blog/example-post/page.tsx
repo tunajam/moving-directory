@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { config } from '@/lib/config';
+import AdSlot from '@/components/AdSlot';
 
 export const metadata: Metadata = {
   title: `${config.industry.singular} Cost: What You'll Actually Pay | ${config.name}`,
@@ -26,6 +27,8 @@ export default function ExamplePost() {
         </div>
       </section>
 
+      <AdSlot position="top" className="max-w-3xl mx-auto mt-6 px-4" />
+
       <article className="max-w-3xl mx-auto px-4 py-12 prose prose-lg">
         <p>
           This is an example blog post. Replace this content with your actual article.
@@ -41,6 +44,8 @@ export default function ExamplePost() {
         <h2>How to Save Money</h2>
         <p>Actionable tips that build trust with readers.</p>
       </article>
+
+      <AdSlot position="sidebar" className="max-w-3xl mx-auto px-4 mb-8" />
 
       <section className="max-w-3xl mx-auto px-4 pb-12">
         <div className="bg-primary/5 border border-primary/10 rounded-xl p-8 text-center">
