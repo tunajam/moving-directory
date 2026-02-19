@@ -13,12 +13,31 @@ export const metadata: Metadata = {
  */
 const POSTS = [
   {
-    slug: 'example-post',
-    title: `${config.industry.singular} Cost: What You'll Actually Pay`,
-    excerpt: 'A deep dive into pricing across different markets.',
-    date: 'January 1, 2026',
-    readTime: '8 min read',
+    slug: 'moving-company-cost',
+    title: 'Moving Company Cost in 2026: By Move Type, Home Size & Services',
+    excerpt:
+      'Local moves average $400–$2,500, long distance $2,500–$10,000+. Full breakdown by move type, home size, and packing services.',
+    date: 'February 19, 2026',
+    readTime: '10 min read',
     category: 'Pricing',
+  },
+  {
+    slug: 'how-much-do-movers-cost',
+    title: 'How Much Do Movers Cost? Hourly Rates, Flat Rates & Hidden Fees',
+    excerpt:
+      'Movers charge $25–$50/hr per person. Here\'s the full breakdown of hourly vs flat rates, hidden fees, and a tipping guide.',
+    date: 'February 19, 2026',
+    readTime: '11 min read',
+    category: 'Pricing',
+  },
+  {
+    slug: 'cheap-movers-near-me',
+    title: 'Cheap Movers Near Me: Budget Options Compared',
+    excerpt:
+      'Every budget option compared — DIY, pods, labor-only, full-service — plus 10 money-saving tips and scam avoidance.',
+    date: 'February 19, 2026',
+    readTime: '12 min read',
+    category: 'Tips',
   },
 ];
 
