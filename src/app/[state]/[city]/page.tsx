@@ -32,6 +32,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       industry: config.industry.singular,
       industryPlural: config.industry.plural,
     }),
+    openGraph: {
+      images: [`https://${config.domain}/og/${state}/${city}`],
+    },
   };
 }
 
@@ -41,6 +44,13 @@ export default async function CityPage({ params }: Props) {
   if (!companies.length) notFound();
 
   const { city: cityName, state: stateName } = companies[0];
+
+  // Compute aggregate rating across companies with ratings
+  const ratedCompanies = companies.filter((c) => c.rating > 0 && c.review_count > 0);
+  const avgRating = ratedCompanies.length
+    ? Number((ratedCompanies.reduce((sum, c) => sum + c.rating, 0) / ratedCompanies.length).toFixed(1))
+    : null;
+  const totalReviews = ratedCompanies.reduce((sum, c) => sum + c.review_count, 0);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -55,8 +65,44 @@ export default async function CityPage({ params }: Props) {
         ...(c.address && { address: c.address }),
         ...(c.phone && { telephone: c.phone }),
         url: `https://${config.domain}/company/${c.slug}`,
+        areaServed: {
+          '@type': 'City',
+          name: cityName,
+        },
+        ...(c.rating > 0 && c.review_count > 0 && {
+          aggregateRating: {
+            '@type': 'AggregateRating',
+            ratingValue: c.rating,
+            reviewCount: c.review_count,
+          },
+        }),
       },
     })),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: `https://${config.domain}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: stateName,
+        item: `https://${config.domain}/${state}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: `${cityName}, ${stateName}`,
+        item: `https://${config.domain}/${state}/${city}`,
+      },
+    ],
   };
 
   return (
@@ -64,6 +110,10 @@ export default async function CityPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
       <section className="bg-primary text-white py-12 px-4">

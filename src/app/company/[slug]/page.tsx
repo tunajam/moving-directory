@@ -30,6 +30,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       state: company.state,
       industry: config.industry.singular,
     }),
+    openGraph: {
+      images: [`https://${config.domain}/og/${company.slug}`],
+    },
   };
 }
 
@@ -53,6 +56,42 @@ export default async function CompanyPage({ params }: Props) {
     },
     ...(company.phone && { telephone: company.phone }),
     ...(company.website && { url: company.website }),
+    areaServed: {
+      '@type': 'City',
+      name: company.city,
+    },
+    ...(company.rating > 0 && company.review_count > 0 && {
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: company.rating,
+        reviewCount: company.review_count,
+      },
+    }),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: `https://${config.domain}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: `${company.city}, ${company.state}`,
+        item: `https://${config.domain}/${company.state_slug}/${company.city_slug}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: company.name,
+        item: `https://${config.domain}/company/${company.slug}`,
+      },
+    ],
   };
 
   return (
@@ -60,6 +99,10 @@ export default async function CompanyPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
 
       {/* Breadcrumb */}

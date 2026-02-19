@@ -12,6 +12,7 @@ export const metadata: Metadata = {
     title: `${config.name} — ${config.tagline}`,
     description: config.description,
     type: 'website',
+    images: [`https://${config.domain}/og/home`],
   },
 };
 
