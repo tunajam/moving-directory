@@ -17,13 +17,18 @@ export interface Company {
   website: string;
   address: string;
   description: string;
-  services: ServiceTier[];    // e.g. sizes, packages, tiers
+  services: ServiceTier[];
+  service_types: string[];
   amenities: string[];
   service_area_miles: number;
   rating: number;
   review_count: number;
   verified: boolean;
   pricing_estimated: boolean;
+  licensed: boolean;
+  insured: boolean;
+  dot_number: string | null;
+  years_in_business: number;
 }
 
 function loadCompanies(): Company[] {
@@ -48,10 +53,6 @@ export function getCompaniesByCity(stateSlug: string, citySlug: string): Company
   );
 }
 
-export function getCompaniesByServiceTier(value: number): Company[] {
-  return companies.filter((c) => c.services.some((s) => s.value === value));
-}
-
 export function getCities(): { city: string; city_slug: string; state: string; state_slug: string; count: number }[] {
   const cityMap = new Map<string, { city: string; city_slug: string; state: string; state_slug: string; count: number }>();
   for (const c of companies) {
@@ -65,6 +66,14 @@ export function getCities(): { city: string; city_slug: string; state: string; s
   return Array.from(cityMap.values());
 }
 
-export function getStates(): string[] {
-  return [...new Set(companies.map((c) => c.state))].sort();
+export function getStates(): { state: string; state_slug: string; count: number }[] {
+  const stateMap = new Map<string, { state: string; state_slug: string; count: number }>();
+  for (const c of companies) {
+    if (stateMap.has(c.state_slug)) {
+      stateMap.get(c.state_slug)!.count++;
+    } else {
+      stateMap.set(c.state_slug, { state: c.state, state_slug: c.state_slug, count: 1 });
+    }
+  }
+  return Array.from(stateMap.values()).sort((a, b) => a.state.localeCompare(b.state));
 }

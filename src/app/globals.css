@@ -1,13 +1,9 @@
 @import "tailwindcss";
 
-/*
- * Theme colors are injected from site.config.ts theme values.
- * Update site.config.ts to change the palette — these are defaults.
- */
 @theme inline {
-  --color-primary: #1e3a5f;
-  --color-primary-light: #2a4f7a;
-  --color-primary-dark: #152a45;
+  --color-primary: #92400e;
+  --color-primary-light: #b45309;
+  --color-primary-dark: #78350f;
   --color-accent: #f59e0b;
   --color-accent-light: #fbbf24;
   --color-accent-dark: #d97706;
