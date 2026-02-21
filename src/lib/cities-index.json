@@ -1,99 +1,9 @@
 [
   {
-    "city": "Albuquerque",
-    "city_slug": "albuquerque",
-    "state": "New Mexico",
-    "state_slug": "new-mexico"
-  },
-  {
-    "city": "Atlanta",
-    "city_slug": "atlanta",
-    "state": "Georgia",
-    "state_slug": "georgia"
-  },
-  {
-    "city": "Austin",
-    "city_slug": "austin",
-    "state": "Texas",
-    "state_slug": "texas"
-  },
-  {
-    "city": "Birmingham",
-    "city_slug": "birmingham",
-    "state": "Alabama",
-    "state_slug": "alabama"
-  },
-  {
-    "city": "Boston",
-    "city_slug": "boston",
-    "state": "Massachusetts",
-    "state_slug": "massachusetts"
-  },
-  {
-    "city": "Buffalo",
-    "city_slug": "buffalo",
+    "city": "New York",
+    "city_slug": "new-york",
     "state": "New York",
     "state_slug": "new-york"
-  },
-  {
-    "city": "Charlotte",
-    "city_slug": "charlotte",
-    "state": "North Carolina",
-    "state_slug": "north-carolina"
-  },
-  {
-    "city": "Chicago",
-    "city_slug": "chicago",
-    "state": "Illinois",
-    "state_slug": "illinois"
-  },
-  {
-    "city": "Columbus",
-    "city_slug": "columbus",
-    "state": "Ohio",
-    "state_slug": "ohio"
-  },
-  {
-    "city": "Dallas",
-    "city_slug": "dallas",
-    "state": "Texas",
-    "state_slug": "texas"
-  },
-  {
-    "city": "Denver",
-    "city_slug": "denver",
-    "state": "Colorado",
-    "state_slug": "colorado"
-  },
-  {
-    "city": "El Paso",
-    "city_slug": "el-paso",
-    "state": "Texas",
-    "state_slug": "texas"
-  },
-  {
-    "city": "Hartford",
-    "city_slug": "hartford",
-    "state": "Connecticut",
-    "state_slug": "connecticut"
-  },
-  {
-    "city": "Houston",
-    "city_slug": "houston",
-    "state": "Texas",
-    "state_slug": "texas"
-  },
-  {
-    "city": "Indianapolis",
-    "city_slug": "indianapolis",
-    "state": "Indiana",
-    "state_slug": "indiana"
-  },
-  {
-    "city": "Jacksonville",
-    "city_slug": "jacksonville",
-    "state": "Florida",
-    "state_slug": "florida"
   },
   {
     "city": "Los Angeles",
@@ -102,58 +12,16 @@
     "state_slug": "california"
   },
   {
-    "city": "Louisville",
-    "city_slug": "louisville",
-    "state": "Kentucky",
-    "state_slug": "kentucky"
+    "city": "Chicago",
+    "city_slug": "chicago",
+    "state": "Illinois",
+    "state_slug": "illinois"
   },
   {
-    "city": "Memphis",
-    "city_slug": "memphis",
-    "state": "Tennessee",
-    "state_slug": "tennessee"
-  },
-  {
-    "city": "Miami",
-    "city_slug": "miami",
-    "state": "Florida",
-    "state_slug": "florida"
-  },
-  {
-    "city": "Milwaukee",
-    "city_slug": "milwaukee",
-    "state": "Wisconsin",
-    "state_slug": "wisconsin"
-  },
-  {
-    "city": "Minneapolis",
-    "city_slug": "minneapolis",
-    "state": "Minnesota",
-    "state_slug": "minnesota"
-  },
-  {
-    "city": "Nashville",
-    "city_slug": "nashville",
-    "state": "Tennessee",
-    "state_slug": "tennessee"
-  },
-  {
-    "city": "New York",
-    "city_slug": "new-york",
-    "state": "New York",
-    "state_slug": "new-york"
-  },
-  {
-    "city": "Oklahoma City",
-    "city_slug": "oklahoma-city",
-    "state": "Oklahoma",
-    "state_slug": "oklahoma"
-  },
-  {
-    "city": "Omaha",
-    "city_slug": "omaha",
-    "state": "Nebraska",
-    "state_slug": "nebraska"
+    "city": "Houston",
+    "city_slug": "houston",
+    "state": "Texas",
+    "state_slug": "texas"
   },
   {
     "city": "Phoenix",
@@ -162,28 +30,10 @@
     "state_slug": "arizona"
   },
   {
-    "city": "Portland",
-    "city_slug": "portland",
-    "state": "Oregon",
-    "state_slug": "oregon"
-  },
-  {
-    "city": "Raleigh",
-    "city_slug": "raleigh",
-    "state": "North Carolina",
-    "state_slug": "north-carolina"
-  },
-  {
-    "city": "Richmond",
-    "city_slug": "richmond",
-    "state": "Virginia",
-    "state_slug": "virginia"
-  },
-  {
-    "city": "Sacramento",
-    "city_slug": "sacramento",
-    "state": "California",
-    "state_slug": "california"
+    "city": "Philadelphia",
+    "city_slug": "philadelphia",
+    "state": "Pennsylvania",
+    "state_slug": "pennsylvania"
   },
   {
     "city": "San Antonio",
@@ -198,10 +48,46 @@
     "state_slug": "california"
   },
   {
+    "city": "Dallas",
+    "city_slug": "dallas",
+    "state": "Texas",
+    "state_slug": "texas"
+  },
+  {
+    "city": "Austin",
+    "city_slug": "austin",
+    "state": "Texas",
+    "state_slug": "texas"
+  },
+  {
+    "city": "Jacksonville",
+    "city_slug": "jacksonville",
+    "state": "Florida",
+    "state_slug": "florida"
+  },
+  {
     "city": "San Francisco",
     "city_slug": "san-francisco",
     "state": "California",
     "state_slug": "california"
+  },
+  {
+    "city": "Columbus",
+    "city_slug": "columbus",
+    "state": "Ohio",
+    "state_slug": "ohio"
+  },
+  {
+    "city": "Charlotte",
+    "city_slug": "charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina"
+  },
+  {
+    "city": "Indianapolis",
+    "city_slug": "indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana"
   },
   {
     "city": "Seattle",
@@ -210,10 +96,58 @@
     "state_slug": "washington"
   },
   {
-    "city": "Tampa",
-    "city_slug": "tampa",
-    "state": "Florida",
-    "state_slug": "florida"
+    "city": "Denver",
+    "city_slug": "denver",
+    "state": "Colorado",
+    "state_slug": "colorado"
+  },
+  {
+    "city": "Nashville",
+    "city_slug": "nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee"
+  },
+  {
+    "city": "Portland",
+    "city_slug": "portland",
+    "state": "Oregon",
+    "state_slug": "oregon"
+  },
+  {
+    "city": "Las Vegas",
+    "city_slug": "las-vegas",
+    "state": "Nevada",
+    "state_slug": "nevada"
+  },
+  {
+    "city": "Memphis",
+    "city_slug": "memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee"
+  },
+  {
+    "city": "Louisville",
+    "city_slug": "louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky"
+  },
+  {
+    "city": "Baltimore",
+    "city_slug": "baltimore",
+    "state": "Maryland",
+    "state_slug": "maryland"
+  },
+  {
+    "city": "Milwaukee",
+    "city_slug": "milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin"
+  },
+  {
+    "city": "Albuquerque",
+    "city_slug": "albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico"
   },
   {
     "city": "Tucson",
@@ -222,9 +156,117 @@
     "state_slug": "arizona"
   },
   {
-    "city": "Tulsa",
-    "city_slug": "tulsa",
+    "city": "Atlanta",
+    "city_slug": "atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia"
+  },
+  {
+    "city": "Miami",
+    "city_slug": "miami",
+    "state": "Florida",
+    "state_slug": "florida"
+  },
+  {
+    "city": "Tampa",
+    "city_slug": "tampa",
+    "state": "Florida",
+    "state_slug": "florida"
+  },
+  {
+    "city": "Orlando",
+    "city_slug": "orlando",
+    "state": "Florida",
+    "state_slug": "florida"
+  },
+  {
+    "city": "Raleigh",
+    "city_slug": "raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina"
+  },
+  {
+    "city": "Minneapolis",
+    "city_slug": "minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota"
+  },
+  {
+    "city": "Kansas City",
+    "city_slug": "kansas-city",
+    "state": "Missouri",
+    "state_slug": "missouri"
+  },
+  {
+    "city": "Sacramento",
+    "city_slug": "sacramento",
+    "state": "California",
+    "state_slug": "california"
+  },
+  {
+    "city": "St. Louis",
+    "city_slug": "st-louis",
+    "state": "Missouri",
+    "state_slug": "missouri"
+  },
+  {
+    "city": "Pittsburgh",
+    "city_slug": "pittsburgh",
+    "state": "Pennsylvania",
+    "state_slug": "pennsylvania"
+  },
+  {
+    "city": "Cincinnati",
+    "city_slug": "cincinnati",
+    "state": "Ohio",
+    "state_slug": "ohio"
+  },
+  {
+    "city": "Cleveland",
+    "city_slug": "cleveland",
+    "state": "Ohio",
+    "state_slug": "ohio"
+  },
+  {
+    "city": "Salt Lake City",
+    "city_slug": "salt-lake-city",
+    "state": "Utah",
+    "state_slug": "utah"
+  },
+  {
+    "city": "San Jose",
+    "city_slug": "san-jose",
+    "state": "California",
+    "state_slug": "california"
+  },
+  {
+    "city": "Richmond",
+    "city_slug": "richmond",
+    "state": "Virginia",
+    "state_slug": "virginia"
+  },
+  {
+    "city": "Boise",
+    "city_slug": "boise",
+    "state": "Idaho",
+    "state_slug": "idaho"
+  },
+  {
+    "city": "Oklahoma City",
+    "city_slug": "oklahoma-city",
     "state": "Oklahoma",
     "state_slug": "oklahoma"
+  },
+  {
+    "city": "New Orleans",
+    "city_slug": "new-orleans",
+    "state": "Louisiana",
+    "state_slug": "louisiana"
+  },
+  {
+    "city": "Detroit",
+    "city_slug": "detroit",
+    "state": "Michigan",
+    "state_slug": "michigan"
   }
 ]
